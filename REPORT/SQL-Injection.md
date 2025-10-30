@@ -22,7 +22,8 @@ The attack uses a simple tautology to bypass the intended search filter and retu
     * The server returned a successful **HTTP 200 OK** status.
     * The response body contained a JSON array listing *all* products in the database (e.g., "Apple Juice," "Orange Juice"), confirming the database query's filtering was successfully bypassed.
     * **Screenshot: SQL Injection Bypass in Search API**
-        !(sqli output.png)
+        !(sqli output.png
+)
 
 ## 3. Recommended Remediation
 
