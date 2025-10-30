@@ -22,7 +22,7 @@ The following table summarizes the successfully exploited vulnerabilities, align
 | Vulnerability | OWASP Category (2021) | Severity | Status | Detailed Report |
 | :--- | :--- | :--- | :--- | :--- |
 | **Broken Access Control** | A01:2021 | High | Solved | [REPORT/Broken-Access-Control.md](REPORT/Broken-Access-Control.md) |
-| **SQL Injection** | A03:2021 | Critical | Solved | [REPORT/SQL-Injection.md](REPORT-SQL-Injection.md) |
+| **SQL Injection** | A03:2021 | Critical | Solved | [REPORT/SQL-Injection.md](REPORT/SQL-Injection.md) |
 | **Cross-Site Scripting** | A07:2021 | High | Solved | [REPORT/Cross-Site-Scripting.md](REPORT/Cross-Site-Scripting.md) |
 
 ---
